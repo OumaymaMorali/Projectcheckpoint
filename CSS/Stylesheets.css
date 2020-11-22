@@ -1,0 +1,478 @@
+body {
+  background-color: rgb(125, 146, 177);
+  overflow-x: hidden;
+  background-image: url(file:///C:/Users/Omaima/Desktop/Psychology%20Website/Img/pic2.jpg);
+}
+body.signs {
+  background-image: url(file:///C:/Users/Omaima/Desktop/Psychology%20Website/Img/photo-1481018085669-2bc6e4f00eed.webp);
+}
+
+img.brain {
+  width: 30px;
+  height: 30px;
+}
+h1.helpline {
+  border-style: hidden;
+  padding-left: 100px;
+  padding-right: 100px;
+  box-sizing: border-box;
+  width: 420px;
+  background-color: rgb(220, 240, 241);
+  position: relative;
+  left: 1070px;
+  box-shadow: black 2px 2px;
+  transition: 2s 2s;
+  border-radius: 5%;
+  bottom: 450px;
+}
+h3.overview {
+  font-size: 90px;
+  color: rgb(11, 73, 8);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-shadow: azure 2px 2px;
+}
+a.delve {
+  color: rgb(223, 226, 240);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 50px;
+  display: flex;
+  justify-content: left;
+  padding-left: 10px;
+  text-decoration: underline;
+}
+div.Bipdis > p {
+  color: rgb(215, 213, 235);
+  font-size: 30px;
+}
+div.Bipdis {
+  display: flex;
+  justify-content: center;
+  border-style: solid;
+  border-width: 10px;
+  line-height: 2;
+  flex-direction: column;
+  padding-left: 200px;
+  padding-right: 200px;
+  font-family: monospace;
+  font-size: 20px;
+  box-sizing: border-box;
+  border-color: rgb(150, 8, 8);
+}
+div.PTSDpers > p {
+  color: rgb(215, 213, 235);
+  font-size: 30px;
+}
+div.PTSDpers {
+  display: flex;
+  justify-content: center;
+  border-style: solid;
+  border-width: 10px;
+  line-height: 2;
+  flex-direction: column;
+  padding-left: 200px;
+  padding-right: 200px;
+  font-family: monospace;
+  font-size: 20px;
+  box-sizing: border-box;
+  border-color: rgb(150, 8, 8);
+}
+div.schizopers {
+  display: flex;
+  justify-content: center;
+  border-style: solid;
+  border-width: 10px;
+  line-height: 2;
+  flex-direction: column;
+  padding-left: 200px;
+  padding-right: 200px;
+  font-family: monospace;
+  font-size: 20px;
+  box-sizing: border-box;
+  border-color: rgb(150, 8, 8);
+}
+div.schizopers > p {
+  color: rgb(215, 213, 235);
+  font-size: 30px;
+}
+div.dispers {
+  display: flex;
+  justify-content: center;
+  border-style: solid;
+  border-width: 10px;
+  line-height: 2;
+  flex-direction: column;
+  padding-left: 200px;
+  padding-right: 200px;
+  font-family: monospace;
+  font-size: 20px;
+  box-sizing: border-box;
+  border-color: rgb(150, 8, 8);
+}
+div.dispers > p {
+  color: rgb(215, 213, 235);
+  font-size: 30px;
+}
+div.socialpers {
+  display: flex;
+  justify-content: center;
+  border-style: solid;
+  border-width: 10px;
+  line-height: 2;
+  flex-direction: column;
+  padding-left: 200px;
+  padding-right: 200px;
+  font-family: monospace;
+  font-size: 20px;
+  box-sizing: border-box;
+  border-color: rgb(150, 8, 8);
+}
+div.socialpers > p {
+  color: rgb(215, 213, 235);
+  font-size: 30px;
+}
+img.pills {
+  position: relative;
+  left: 600px;
+  border-radius: 10%;
+  top: 100px;
+}
+img.pills:hover {
+  -ms-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+::selection {
+  color: rgb(136, 27, 27);
+  background-color: rgb(0, 255, 149);
+}
+
+#post {
+  width: 700px;
+  height: 600px;
+}
+div.post {
+  display: flex;
+  justify-content: center;
+}
+body.mental {
+  background-color: rgb(28, 43, 56);
+}
+img.typewriter {
+  width: 300px;
+  height: 300px;
+  border-radius: 20%;
+}
+body.contact {
+  background-image: url(https://images.unsplash.com/photo-1592495989201-d5162c4267ce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=231&q=80);
+}
+h4.contact {
+  color: rgb(18, 18, 31);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 100px;
+  border-style: solid;
+  background-color: rgb(99, 72, 72);
+}
+.fa-brain {
+  color: red;
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
+input.message {
+  width: 500px;
+  height: 200px;
+}
+form.comment {
+  display: flex;
+  justify-content: center;
+}
+form.commenttwo {
+  display: flex;
+  justify-content: center;
+}
+form.commentthree {
+  display: flex;
+  justify-content: center;
+}
+form.commentfour {
+  display: flex;
+  justify-content: center;
+}
+form.commentfive {
+  display: flex;
+  justify-content: center;
+}
+div.home {
+  display: flex;
+  justify-content: center;
+  border-style: solid;
+  border-color: rgb(105, 57, 105);
+  background-color: rgb(60, 53, 66);
+  box-sizing: border-box;
+  height: 500px;
+  padding-top: 100px;
+}
+img.mindhome {
+  width: 300px;
+  height: 300px;
+  border-radius: 20%;
+}
+img.break {
+  width: 300px;
+  height: 300px;
+  border-radius: 20%;
+}
+h3 {
+  color: white;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+}
+img.bi {
+  mix-blend-mode: multiply;
+}
+div.social {
+  display: flex;
+  justify-content: center;
+}
+div.schiz {
+  display: flex;
+  justify-content: center;
+}
+div.schiz > img {
+  width: 700px;
+  height: 600px;
+}
+#dis {
+  width: 700px;
+  height: 500px;
+}
+div.dis {
+  display: flex;
+  justify-content: center;
+}
+div.bipolar {
+  display: flex;
+  justify-content: center;
+  border-style: solid;
+  color: white;
+  border-color: transparent;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+div.factcontainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+div.factcontainer > img {
+  border-radius: 20px;
+  box-shadow: grey 2px 2px;
+}
+h1.facts {
+  display: flex;
+  justify-content: center;
+  color: rgb(204, 216, 218);
+}
+h1.themind {
+  display: flex;
+  justify-content: center;
+  font-size: 60px;
+  color: rgb(27, 19, 97);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+h1.mind {
+  display: flex;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  border-style: solid;
+  line-height: 1.7;
+  padding-left: 100px;
+  padding-right: 100px;
+  background-image: url(https://images.unsplash.com/photo-1574577458636-09dc294a0534?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+  color: white;
+}
+img.arrow {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  top: 300px;
+  left: 200px;
+}
+p.mental {
+  position: relative;
+  top: 250px;
+  left: 50px;
+  font-weight: bold;
+  color: white;
+}
+img.unnamed {
+  mix-blend-mode: multiply;
+  display: flex;
+  justify-content: center;
+  padding-left: 480px;
+}
+div.contain {
+  display: flex;
+  justify-content: center;
+}
+img.picone {
+  width: 600px;
+  height: 600px;
+  border-radius: 20px;
+}
+img.pictwo {
+  width: 600px;
+  height: 600px;
+  border-radius: 20px;
+}
+
+div.container {
+  display: flex;
+  justify-content: center;
+  border: solid;
+  line-height: 50px;
+  background-color: rgb(154, 155, 221);
+  border-radius: 20px;
+  padding-top: 20px;
+}
+p.register {
+  display: flex;
+  justify-content: center;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(15, 31, 44);
+  font-size: 20px;
+  font-weight: bold;
+}
+img.brainregister {
+  width: 30px;
+  height: 30px;
+}
+form.register {
+  display: flex;
+  flex-direction: column;
+  box-sizing: 20px;
+  align-items: center;
+}
+button.register {
+  width: 400px;
+}
+input {
+  width: 400px;
+}
+img.book {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: 650px;
+}
+img.book:hover {
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+}
+
+img.typewriter:hover {
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+}
+img.mindhome:hover {
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+}
+
+img.break:hover {
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+}
+div.container p {
+  font-size: 30px;
+}
+h1.beginning {
+  display: flex;
+  justify-content: center;
+  color: rgb(247, 251, 255);
+}
+div.container p span {
+  font-weight: bold;
+}
+
+p.Encyclopedia {
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
+  border-style: solid;
+  line-height: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: white;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+}
+h2,
+h4,
+h5 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: indigo;
+  display: flex;
+  justify-content: center;
+}
+header {
+  font-size: 62px;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  font-family: monospace;
+  color: rgb(41, 23, 70);
+  font-weight: bold;
+  border-style: solid;
+  box-sizing: border-box;
+  padding-top: 23%;
+  height: 500px;
+  background-image: url(file:///C:/Users/Omaima/Desktop/Psychology%20Website/Img/73CE52BA-CB44-45CB-AE4B2C7D68E7111B_source.webp);
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  padding-top: 600px;
+  color: white;
+}
+
+body.register {
+  background-image: url(https://images.unsplash.com/photo-1581434148149-bc0ea64bb4df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80);
+}
+
+div.links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  border: dashed;
+  box-sizing: border-box;
+  width: 700px;
+  position: relative;
+  left: 400px;
+  background-color: rgb(164, 180, 138);
+}
+
+div.linkstwo {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: relative;
+}
+div.linkstwo > a {
+  font-size: 40px;
+  color: rgb(228, 241, 228);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-decoration: underline;
+}
